@@ -50,5 +50,3 @@ Standardize number formatting (decimal places) across all data labels
 About This Project
 
 This is my first Power BI project, built to practice dashboard design, DAX measures, and data storytelling using real-world retail sales data.
-
-Author
